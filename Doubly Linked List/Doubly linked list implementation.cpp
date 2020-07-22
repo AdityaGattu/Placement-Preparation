@@ -41,6 +41,5 @@ int main()
     cout<<head->val<<"\n";
     head=head->right;
   }
-  
   return 0;
 }
